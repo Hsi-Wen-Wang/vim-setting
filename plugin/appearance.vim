@@ -26,6 +26,6 @@ colorscheme molokai
 " cursorline
 "-----------------------
 hi CursorLineNr cterm=bold
-hi CursorLine cterm=bold ctermbg=240 ctermfg=None
+hi CursorLine cterm=bold ctermbg=240 ctermfg=green
 
 hi Visual term=reverse cterm=reverse guibg=Grey
