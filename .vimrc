@@ -5,6 +5,7 @@ set softtabstop=4
 set shiftwidth=4
 set expandtab
 set autoindent
+syntax on
 
 " ------------------------
 " bookmark
@@ -50,5 +51,7 @@ Plug 'frazrepo/vim-rainbow'
 Plug 'morhetz/gruvbox'
 Plug 'tomasr/molokai'
 Plug 'vim-autoformat/vim-autoformat'
+Plug 'nanotech/jellybeans.vim'
+Plug 'jpo/vim-railscasts-theme'
 
 call plug#end()

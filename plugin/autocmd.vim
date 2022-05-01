@@ -3,6 +3,7 @@
 " ------------------------------------------
 autocmd WinEnter * setlocal cursorline
 autocmd WinLeave * setlocal nocursorline
+autocmd Filetype xml syntax on
 
 "-------------------------------------------
 " delete extra space when save

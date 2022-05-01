@@ -20,7 +20,7 @@ syntax on
 " terminal background
 "-----------------------
 set background=dark
-colorscheme molokai
+colorscheme jellybeans
 
 "-----------------------
 " cursorline
